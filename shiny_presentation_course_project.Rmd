@@ -1,0 +1,34 @@
+---
+title: "Shiny_app"
+author: "Asoskov Dmitrii"
+date: "2024-02-08"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Shiny Application and Reproducible Pitch
+
+## Some info about the data
+
+I've chosen the dataset about diamond's prices and due to my application anyone can try to predict a price of a diamond with a input value of carats.
+
+## The third slide
+
+Honestly, I don't know what I can add before showing the links to my application and gihub repository so you can switch it right now.
+
+
+## Links
+
+For shinyApp:
+https://dgasoskov.shinyapps.io/course_project/
+
+For GitHub:
+https://github.com/asoskov/Shiny_project
+
+## Final Slide
+
+Good luck!
+
